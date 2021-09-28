@@ -1,8 +1,8 @@
 dataset: "LJSpeech"
 
 path:
-  corpus_path: "/home/ming/Data/LJSpeech-1.1"
-  lexicon_path: "lexicon/librispeech-lexicon.txt"
+  corpus_path: "/home/centos/qalab_TTS/Datasets/LJSpeech-1.1"
+  lexicon_path: "/home/centos/qalab_TTS/Datasets/LJSpeech-1.1/metadata.csv"
   raw_path: "./raw_data/LJSpeech"
   preprocessed_path: "./preprocessed_data/LJSpeech"
 
